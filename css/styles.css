@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+  line-height: 1.4em;
+  color: #004d00;
+  background-color: #e6ffb3;
+  font-family: 'Lato', sans-serif;
+}
+/** HEADER **/
+#header-nav {
+  background-color: #e68a00;
+  border-radius: 0;
+  text-align: center;
+}
+
+.navbar-default .navbar-brand {
+ color: white;	
+}
+
+.navbar-brand { 
+  padding: 5px 5px 5px 5px; 
+  text-align: left;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+h1{
+  color: black;
+}
+
+h3{
+  color: orange;
+	
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.2em;
+  background-color: white;
+}
+
+#nav-list a {
+  color: #e68a00;
+}
+
+#nav-list a:hover {
+  text-decoration: none;
+}
+
+  .food {
+	border: 1px solid orange;
+	padding: 5px 0px 5px 0px;
+  }
+  
+  #collapsable-nav { 
+    font-size: 1.3em;
+  }
+  
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -50px;
+}
+
+#title {
+ font-size: 2em;
+ text-align: center;
+}
+
+.menu {
+  padding: 10px;
+  text-align: left;
+  background-color: #ffffe6;
+  margin: 5px 5px 20px 5px;
+  border: 1px solid black;
+}
